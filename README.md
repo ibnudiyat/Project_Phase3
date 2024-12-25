@@ -11,6 +11,7 @@ In Tanzania, many water points fail to provide reliable access to clean water, i
 
 Source: The dataset was sourced from Taarifa and the Tanzanian Ministry of Water and is available on DrivenData.
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
+
 Features: The dataset includes attributes such as amount_tsh, funder, gps_height, installer, longitude, latitude, region, management, permit, construction_year, and more.
 
 Target Variable: status_group (categorical: functional, functional needs repair, non-functional).
