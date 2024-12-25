@@ -7,3 +7,11 @@ Access to clean and functional water sources is a fundamental necessity, yet man
 This project seeks to address this issue by building a machine learning model to classify the operational status of water points. By analyzing data related to water point features such as pump type, installation details, and geographic characteristics, the project aims to predict whether a water point is functional, functional but requiring repair, or non-functional. Such insights can empower stakeholders to take targeted and proactive actions to improve water access.
 #### Problem Statement
 In Tanzania, many water points fail to provide reliable access to clean water, impacting millions of people and burdening rural communities. As a data scientist, my goal is to develop a machine learning model to predict the operational status of water points—functional, in need of repair, or non-functional. This will enable stakeholders to prioritize maintenance, allocate resources effectively, and address systemic issues, ensuring sustainable access to clean water for the population.
+#### Data Understanding
+
+Source: The dataset was sourced from Taarifa and the Tanzanian Ministry of Water and is available on DrivenData.
+DrivenData Competition:Pump it Up: Data Mining the Water Table
+
+Features: The dataset includes attributes such as amount_tsh, funder, gps_height, installer, longitude, latitude, region, management, permit, construction_year, and more.
+
+Target Variable: status_group (categorical: functional, functional needs repair, non-functional).
